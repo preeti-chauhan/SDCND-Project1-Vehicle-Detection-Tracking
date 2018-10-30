@@ -1,6 +1,6 @@
 # CarND-P5-Vehicle-Detection-Tracking
 
-source activate carnd-term1
+source activate carnd
 
 https://github.com/udacity/CarND-Vehicle-Detection
 
