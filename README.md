@@ -32,11 +32,11 @@ The goals / steps of this project are the following:
 
 **Multi Scale Sliding Window Search:**
 
-<img src="images/Results_1.png" width="350">
+<img src="images/Results_1.png" width="700">
 
 **Image Processing Pipeline using Hog Sub-sampling Window Search:**
 
-<img src="images/Results_3.png" width="350">
+<img src="images/Results_3.png" width="700">
 
 **Test Video Processing Pipeline:**
 
