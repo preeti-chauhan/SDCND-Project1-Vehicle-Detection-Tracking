@@ -26,16 +26,21 @@ The goals / steps of this project are the following:
 
 ### Results
 
-**Test Sliding Windows - Multi Scale:**
+**Test Sliding Windows:**
 
 <img src="images/Results_2.png" width="700">
 
+**Multi Scale Sliding Window Search:**
+
 <img src="images/Results_1.png" width="350">
+
+**Image Processing Pipeline using Hog Sub-sampling Window Search:**
 
 <img src="images/Results_3.png" width="350">
 
+**Test Video Processing Pipeline:**
+
 The following video demonstrates that the pipeline works well in vehicle detection and tracking.
-https://youtu.be/gluKWuigiUI
 
-
+[![Vehicle Detection and Tracking](test_video.png)](https://www.youtube.com/watch?v=https://youtu.be/gluKWuigiUI)
 
