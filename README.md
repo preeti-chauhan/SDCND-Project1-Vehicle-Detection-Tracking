@@ -18,7 +18,9 @@ The goals / steps of this project are the following:
 
 ### Datasets
 
-Here are links to the labeled data for [vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) examples to train your classifier.  These example images come from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), the [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/), and examples extracted from the project video itself. The recently released [Udacity labeled dataset](https://github.com/udacity/self-driving-car/tree/master/annotations) can be used to augment the training data.  
+- The labeled data [vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) to train the classifier.  
+- These example images come from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), the [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/), and examples extracted from the project video itself. 
+- The recently released [Udacity labeled dataset](https://github.com/udacity/self-driving-car/tree/master/annotations) can be used to augment the training data.  
 
 ### Results
 The following video demonstrates that the pipeline works well in vehicle detection and tracking.
