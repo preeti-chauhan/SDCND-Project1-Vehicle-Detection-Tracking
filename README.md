@@ -25,6 +25,13 @@ The goals / steps of this project are the following:
 [Jupyter Notebook](https://github.com/preeti-chauhan/SDCND-P5-Vehicle-Detection-Tracking/blob/master/P5.ipynb) : project code development
 
 ### Results
+
+<img src="images/Results_1.png" width="350">
+
+<img src="images/Results_2.png" width="350">
+
+<img src="images/Results_3.png" width="350">
+
 The following video demonstrates that the pipeline works well in vehicle detection and tracking.
 https://youtu.be/gluKWuigiUI
 
