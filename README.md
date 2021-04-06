@@ -6,7 +6,6 @@
 In this project, the goal is to write a software pipeline to detect vehicles in a video (starting with the test_video.mp4 and later implementing on full project_video.mp4).   
 
 ### The Project
-
 The goals / steps of this project are the following:
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
@@ -17,10 +16,12 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 ### Datasets
-
 - The labeled data [vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) to train the classifier.  
 - These example images come from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), the [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/), and examples extracted from the project video itself. 
 - The recently released [Udacity labeled dataset](https://github.com/udacity/self-driving-car/tree/master/annotations) can be used to augment the training data.  
+
+### Files
+[Jupyter Notebook](https://github.com/preeti-chauhan/SDCND-P5-Vehicle-Detection-Tracking/blob/master/P5.ipynb) : project code development
 
 ### Results
 The following video demonstrates that the pipeline works well in vehicle detection and tracking.
