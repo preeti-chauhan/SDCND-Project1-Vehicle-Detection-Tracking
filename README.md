@@ -28,7 +28,7 @@ The goals / steps of this project are the following:
 
 **Test Sliding Windows - Multi Scale:**
 
-<img src="images/Results_2.png" width="600">
+<img src="images/Results_2.png" width="700">
 
 <img src="images/Results_1.png" width="350">
 
