@@ -42,5 +42,5 @@ The goals / steps of this project are the following:
 
 The following video demonstrates that the pipeline works well in vehicle detection and tracking.
 
-[![Vehicle Detection and Tracking](test_video.png)](https://www.youtube.com/watch?v=https://youtu.be/gluKWuigiUI)
+[![Vehicle Detection and Tracking](images/test_video.png)](https://www.youtube.com/watch?v=https://youtu.be/gluKWuigiUI)
 
