@@ -40,8 +40,6 @@ The goals / steps of this project are the following:
 
 **Test Video Processing Pipeline:**
 
-The following video demonstrates that the pipeline works well in vehicle detection and tracking:
-
-https://www.youtube.com/watch?v=gluKWuigiUI
+[This]((https://www.youtube.com/watch?v=gluKWuigiUI) video demonstrates that the pipeline works well in vehicle detection and tracking:
 
 <img src="images/test_video.png" width="350">
