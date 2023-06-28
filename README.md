@@ -5,9 +5,8 @@
 - Used Histogram of Oriented Gradients (HOG) feature extraction on labeled images.
 - Trained the Linear Support Vector Machine (SVM) Classifier with a 99% test accuracy.
 
+### Project Overview
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-
-### Overview
 
 In this project, the goal is to write a software pipeline to detect vehicles in a video (starting with the test_video.mp4 and later implementing on full project_video.mp4).   
 
