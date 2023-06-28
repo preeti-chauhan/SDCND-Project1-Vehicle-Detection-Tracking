@@ -1,17 +1,17 @@
 # CarND-P5-Vehicle-Detection-Tracking
 
-## Summary
+### Summary
 - Developed a software pipeline to identify vehicles in a video from front-facing car camera.
 - Used Histogram of Oriented Gradients (HOG) feature extraction on labeled images.
 - Trained the Linear Support Vector Machine (SVM) Classifier with a 99% test accuracy.
 
-## Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+### Overview
 
 In this project, the goal is to write a software pipeline to detect vehicles in a video (starting with the test_video.mp4 and later implementing on full project_video.mp4).   
 
-### The Project
-The goals / steps of this project are the following:
+The steps of this project are as follows:
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
 * Optionally, you can also apply a color transform and append binned color features, as well as histograms of color, to your HOG feature vector. 
