@@ -1,12 +1,17 @@
 # CarND-P5-Vehicle-Detection-Tracking
 
+[![View on nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/preeti-chauhan/SDCND-Project1-Vehicle-Detection-Tracking/blob/master/P5.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/preeti-chauhan/SDCND-Project1-Vehicle-Detection-Tracking/blob/master/P5.ipynb)
+
+> **GitHub can't render the notebook?** Click the nbviewer or Colab badge above to view or run it instantly.
+
 ### Summary
 - Developed a software pipeline to identify vehicles in a video from front-facing car camera.
 - Used Histogram of Oriented Gradients (HOG) feature extraction on labeled images.
 - Trained the Linear Support Vector Machine (SVM) Classifier with a 99% test accuracy.
 
 ### Files
-- Project development and code: [P5.ipynb](https://github.com/preeti-chauhan/SDCND-P5-Vehicle-Detection-Tracking/blob/master/P5.ipynb)
+- Project development and code: [P5.ipynb](https://github.com/preeti-chauhan/SDCND-Project1-Vehicle-Detection-Tracking/blob/master/P5.ipynb)
 
 ### Results
 
@@ -47,4 +52,3 @@ The steps of this project are as follows:
 - These example images come from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), the [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/), and examples extracted from the project video itself. 
 - The recently released [Udacity labeled dataset](https://github.com/udacity/self-driving-car/tree/master/annotations) can be used to augment the training data.  
 - Some example images for testing the pipeline on single frames are located in the `test_images` folder. Some examples of the output from each stage of my pipeline are saved in the folder called `ouput_images`.
-
