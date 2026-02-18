@@ -1,9 +1,6 @@
 # CarND-P5-Vehicle-Detection-Tracking
 
-[![View on nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/preeti-chauhan/SDCND-Project1-Vehicle-Detection-Tracking/blob/master/P5.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/preeti-chauhan/SDCND-Project1-Vehicle-Detection-Tracking/blob/master/P5.ipynb)
-
-> **GitHub can't render the notebook?** Click the nbviewer or Colab badge above to view or run it instantly.
 
 ### Summary
 - Developed a software pipeline to identify vehicles in a video from front-facing car camera.
